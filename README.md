@@ -3,11 +3,15 @@ I enjoy challenging projects and building teams which are driven to succeed. A r
 📫 [brian-rogers.com](http://brian-rogers.com)
 
 ### Currently dabbling with...
+- Artificial Intelligence
+- x86 vs ARM vs RISC
 - Kubenetes
+- oneAPI
+- GPU
+- Life
+
+### Depriortized for now...
 - New Relic
 - Ceph
 - Rook
-- oneAPI
 - FPGA
-- GPU
-- Life
